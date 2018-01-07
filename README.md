@@ -5,6 +5,8 @@ It uses only 10 different characters (`!+/()[]{},`) to write.
 
 And it supports Chrome, IE, and other browsers.
 
+However, this only works with the http and https protocols.
+
 ## Code
 ``` python
 code = 'alert("Hello, World!")'
