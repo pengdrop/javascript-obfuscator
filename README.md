@@ -7,6 +7,8 @@ And it supports Chrome, IE and other some browsers.
 
 However, this only works with the http and https protocols.
 
+Because it use URL protocol as gadget.
+
 ## Code
 ``` python
 code = 'alert("Hello, World!")'
