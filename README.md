@@ -1,4 +1,4 @@
-# JS Obfuscator
+# JavaScript Obfuscator
 Converts the JavaScript source code into obfuscated.
 
 It uses only 10 different characters (`!+/()[]{},`) to write.
